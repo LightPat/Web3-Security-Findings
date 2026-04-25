@@ -1,6 +1,6 @@
 # Web3 Security Findings
 
-**Patrick Seeman** — Smart Contract Auditor & Solidity Developer  
+**Patrick Seeman** - Smart Contract Auditor & Solidity Developer  
 [LinkedIn](https://www.linkedin.com/in/patrick-seeman/) | [X (@LightPat02)](https://x.com/LightPat02) | [Portfolio](https://patrickseeman.com) | [GitHub](https://github.com/LightPat)
 
 Public repository of all my competitive audit findings from **CodeHawks**, **Sherlock**, **Cantina**, **Code4rena**, and other platforms.
@@ -34,7 +34,7 @@ I participate in competitive security audits to sharpen my skills and publicly d
 All detailed reports are organized by platform and contest:
 
 ### CodeHawks
-- **[First Flight — SNARKeling Treasure Hunt](reports/codehawks/SNARKeling-Treasure-Hunt/)** (8 findings)
+- **[SNARKeling Treasure Hunt](reports/codehawks/SNARKeling-Treasure-Hunt/)** (8 findings)
 
 ### Future Folders
 - `reports/sherlock/`
@@ -61,9 +61,9 @@ Looking for smart contract auditing, security reviews, or full-stack Web3 develo
 ---
 
 ## License
-All reports in this repository are licensed under [MIT](LICENSE) — feel free to reference them, but please credit if used publicly.
+All reports in this repository are licensed under [MIT](LICENSE) - feel free to reference them, but please credit if used publicly.
 
 ---
 
-**Last updated:** April 20, 2026  
-*This repo is actively maintained. New contests and findings added weekly.*
+**Last updated:** April 25, 2026  
+*This repo is actively maintained. New contests and findings added when contests conclude.*
