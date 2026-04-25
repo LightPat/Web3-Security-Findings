@@ -1,3 +1,9 @@
+# Owner withdraw() is permanently blocked (impossible to reach claimsCount >= MAX_TREASURES) due to duplicate treasure hash in the circuit (only 9 unique claimable treasures) or incomplete hunt
+
+**Judging Result:** ✅ **Valid**
+
+---
+
 # Root + Impact
 
 **Impact:** High **Likelihood:** High

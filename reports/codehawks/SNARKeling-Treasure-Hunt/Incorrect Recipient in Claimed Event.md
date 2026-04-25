@@ -1,3 +1,9 @@
+# Incorrect Recipient in Claimed Event
+
+**Judging Result:** ✅ **Valid**
+
+---
+
 # Root + Impact
 
 **Impact:** Low **Likelihood:** High

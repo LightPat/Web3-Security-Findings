@@ -1,3 +1,9 @@
+# Defined custom errors are unused; require() statements with string messages are used instead
+
+**Judging Result:** ❌ **Invalid**
+
+---
+
 # Root + Impact
 
 **Impact:** Low **Likelihood:** High

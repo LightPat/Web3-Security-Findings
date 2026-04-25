@@ -1,3 +1,9 @@
+# Missing onlyOwner access control (and nonReentrant) on withdraw() function
+
+**Judging Result:** ✅ **Valid**
+
+---
+
 # Root + Impact
 
 **Impact:** Low **Likelihood:** Medium

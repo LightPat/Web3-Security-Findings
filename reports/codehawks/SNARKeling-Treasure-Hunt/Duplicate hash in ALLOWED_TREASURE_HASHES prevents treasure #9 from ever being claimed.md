@@ -1,3 +1,9 @@
+# Duplicate hash in ALLOWED_TREASURE_HASHES prevents treasure #9 from ever being claimed
+
+**Judging Result:** ✅ **Valid**
+
+---
+
 # Root + Impact
 
 **Impact:** Medium **Likelihood:** High

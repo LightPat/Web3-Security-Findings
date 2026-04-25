@@ -1,3 +1,9 @@
+# Deployment Script Uses Plaintext PRIVATE_KEY from .env Instead of Foundry Keystore
+
+**Judging Result:** ✅ **Valid**
+
+---
+
 # Root + Impact
 
 **Impact:** High **Likelihood:** Medium

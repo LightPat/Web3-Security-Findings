@@ -1,3 +1,9 @@
+# Missing nonReentrant modifier on emergencyWithdraw allowing reentrancy attacks
+
+**Judging Result:** ❌ **Invalid**
+
+---
+
 # Root + Impact
 
 **Impact:** Medium **Likelihood:** Low

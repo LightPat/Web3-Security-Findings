@@ -1,3 +1,9 @@
+# Double-Spend Protection Broken
+
+**Judging Result:** ✅ **Valid**
+
+---
+
 **Impact:** High **Likelihood:** High
 
 Scope: .../src/TreasureHunt.sol
