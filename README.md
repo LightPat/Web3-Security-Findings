@@ -19,13 +19,13 @@ I participate in competitive security audits to sharpen my skills and publicly d
 
 ## Contest Summary
 
-| Platform     | Contest Name                          | Date       | Findings Submitted | High | Medium | Low | Gas/Info | Status          |
-|--------------|---------------------------------------|------------|--------------------|------|--------|-----|----------|-----------------|
-| CodeHawks   | First Flight - SNARKeling Treasure Hunt | Apr 2026 | 8                  | -    | -      | -   | -        | Completed      |
+| Platform     | Contest Name                          | Date       | Findings Submitted | Valid Findings | High | Medium | Low |
+|--------------|---------------------------------------|------------|--------------------|----------------|------|--------|-----|
+| CodeHawks    | SNARKeling Treasure Hunt              | Apr 2026   | 8                  | 6              | 4    | 0      | 2   |
 
 *(Table updates automatically as I add new contests)*
 
-**Total findings to date: 8**
+**Total valid findings to date: 6**
 
 ---
 
