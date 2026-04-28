@@ -37,10 +37,12 @@ All detailed reports are organized by platform and contest:
 ### CodeHawks
 - **[SNARKeling Treasure Hunt](reports/codehawks/SNARKeling-Treasure-Hunt/)** (8 findings)
 
+### Code4rena
+- **[Monetrix](reports/code4rena/Monetrix/)** (2 findings)
+
 ### Future Folders
 - `reports/sherlock/`
 - `reports/cantina/`
-- `reports/code4rena/`
 - `reports/immunefi/`
 
 ---
