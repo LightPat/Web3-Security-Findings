@@ -22,6 +22,7 @@ I participate in competitive security audits to sharpen my skills and publicly d
 | Platform     | Contest Name                          | Date       | Findings Submitted | Valid Findings | High | Medium | Low |
 |--------------|---------------------------------------|------------|--------------------|----------------|------|--------|-----|
 | CodeHawks    | SNARKeling Treasure Hunt              | Apr 2026   | 8                  | 6              | 4    | 0      | 2   |
+| Code4rena    | Monetrix                              | Apr 2026   | 2                  | 0              | 0    | 0      | 0   |
 
 *(Table updates automatically as I add new contests)*
 
