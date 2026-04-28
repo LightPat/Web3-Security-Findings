@@ -1,15 +1,14 @@
-# Defined custom errors are unused; require() statements with string messages are used instead
+# PrecompileReader hard-reverts on any HyperCore staticcall failure, permanently DoS-ing settleDailyPnL (Gate 3) and all solvency views
 
 **Judging Result:** ❌ **Not Judged Yet**
 
 ---
 
-# PrecompileReader hard-reverts on any HyperCore staticcall failure, permanently DoS-ing settleDailyPnL (Gate 3) and all solvency views
-
-Impact: High
-Likelihood: Medium
-
 # Root + Impact
+
+**Impact:** High **Likelihood:** Medium
+
+Scope: .../src/core/PrecompileReader.sol
 
 ## Description
 
