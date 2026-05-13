@@ -1,6 +1,6 @@
 # PrecompileReader hard-reverts on any HyperCore staticcall failure, permanently DoS-ing settleDailyPnL (Gate 3) and all solvency views
 
-**Judging Result:** ❌ **Not Judged Yet**
+**Judging Result:** ❌ **Invalid**
 
 ---
 

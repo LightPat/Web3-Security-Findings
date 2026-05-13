@@ -1,6 +1,6 @@
 # Mass requestRedeem() calls can temporarily DoS settleDailyPnL() via inflated RedeemEscrow.shortfall()
 
-**Judging Result:** ❌ **Not Judged Yet**
+**Judging Result:** ❌ **Invalid**
 
 ---
 
